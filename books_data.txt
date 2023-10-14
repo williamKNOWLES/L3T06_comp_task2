@@ -1,0 +1,51 @@
+Charles Dickens,_,_,_,_,_
+J.K. Rolling,_,_,_,_,_
+C. S. Lewis,_,_,_,_,_
+J.R.R Tolkien,_,_,_,_,_
+Lewis Caroll,_,_,_,_,_
+Agatha Cristie,_,_,_,_,_
+Dean Koontz,_,_,_,_,_
+Stephenie Meyer,_,_,_,_,_
+Malcom Gladwell,_,_,_,_,_
+Jonh Berendt,_,_,_,_,_
+Dan Brown,_,_,_,_,_
+Cormac McCarthy,_,_,_,_,_
+Kathryn Stockett,_,_,_,_,_
+Marjane Satrapi,_,_,_,_,_
+Barack Obama,_,_,_,_,_
+David F. Wallace,_,_,_,_,_
+Charles Wyke-Smith,_,_,_,_,_
+Calleb Carr,_,_,_,_,_
+Tom Clansy,_,_,_,_,_
+Stieg Larsson,_,_,_,_,_
+3001,A Tale of Two Cities,1859,3,30,1
+3002,Harry Potter and the Philosophers Stone,1997,5,40,2
+3003,The Lion the Witch and the Wardrope,1998,4,25,3
+3004,The Lord of the rings,1954,5,37,4
+3005,Alice in Wonderland,1865,3,12,5
+3006,Harry Potter and Chamber of Secrets,1998,5,32,2
+3007,And Then There Were None,1939,4,11,6
+3008,Harry Potter and the Prisioner of Askaban,1999,5,36,2
+3009,From the Corner of His Eye,2001,5,42,8
+3010,Harry Potter and the Goblet of fire,2000,5,23,2
+3011,Harry Potter and Order of the Phoenix,2003,5,35,2
+3012,Harry Potter and the Half-Blood Prince,2005,5,41,2
+3013,Twilight,2005,5,17,7
+3014,The Tipping Point,2000,5,33,9
+3015,Midnight in the Garden of Good and Evil,1995,5,45,10
+3016,Harry Potter and the Deathly Hallows,2007,5,78,2
+3017,The lost Symbol,2010,5,36,11
+3018,The Road,2000,5,25,12
+3019,The Help,2010,5,15,13
+3020,Persepolis,2000,5,10,14
+3021,Dreams from my Father,2000,5,4,15
+3022,Infinite Jest,1995,5,45,16
+3023,Stylin With Css: A Designers Guide,2005,5,42,17
+3024,The Alienist,1995,3,18,18
+3025,The Bear and the Dragon,2001,5,12,19
+3026,The Girl with Dragon Tattoo,2005,5,32,20
+3027,The Da Vinci Code,2003,5,0,11
+3028,The Angel of Darkness,1997,3,5,18
+3029,Killing Time,2023,4,21,18
+3030,Without Remorse,1993,3,22,19
+3031,The Girl who Played With Fire,2006,5,36,20
